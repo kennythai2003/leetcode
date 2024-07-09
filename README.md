@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3468-find-the-encrypted-string](https://github.com/kennythai2003/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Binary Tree
 |  |
 | ------- |
