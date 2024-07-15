@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [3468-find-the-encrypted-string](https://github.com/kennythai2003/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Binary Tree
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kennythai2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kennythai2003/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 ## Quickselect
 |  |
 | ------- |
@@ -84,4 +86,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/kennythai2003/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kennythai2003/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
