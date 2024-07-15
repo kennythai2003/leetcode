@@ -9,7 +9,7 @@ class Solution:
             smap[i] = 1 + smap.get(i, 0)
         
         for i in t:
-            tmap[i] =1 + tmap.get(i, 0)
+            tmap[i] = 1 + tmap.get(i, 0)
         
 
         for j in smap:
