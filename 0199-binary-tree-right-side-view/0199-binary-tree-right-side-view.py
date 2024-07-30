@@ -12,18 +12,17 @@ class Solution:
         queue.append(root)
 
         while queue:
-            
-            right = None
-
+            rightnode = None
             for i in range(len(queue)):
                 curr = queue.popleft()
-                
-                if curr:
-                    right = curr
-                    queue.append(curr.left)
-                    queue.append(curr.right)
 
-            if right:
-                res.append(right.val)
+                if curr:
+                    queue.append(curr.left)    
+                    queue.append(curr.right)
+                    rightnode = curr
+                
+            if rightnode:
+                res.append(rightnode.val)
         
         return res
+                        
