@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/kennythai2003/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kennythai2003/leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
