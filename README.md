@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kennythai2003/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/kennythai2003/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/kennythai2003/leetcode/tree/master/0078-subsets) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kennythai2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kennythai2003/leetcode/tree/master/0217-contains-duplicate) |
@@ -190,5 +192,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
