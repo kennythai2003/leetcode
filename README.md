@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kennythai2003/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kennythai2003/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -201,4 +202,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kennythai2003/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
