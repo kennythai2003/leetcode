@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
@@ -194,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
