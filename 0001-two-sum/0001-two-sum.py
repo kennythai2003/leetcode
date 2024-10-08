@@ -6,12 +6,12 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        diffs = {}
+        num_map = {}
 
-        for i, v in enumerate(nums):
-            diff = target - v
-            if diff in diffs:
-                return [diffs[diff], i]
-            diffs[v] = i
+        for i, n in enumerate(nums):
+            diff = target - n
+            if diff in num_map:
+                return [i, num_map[diff]]
+            num_map[n] = i
         
         return []
