@@ -1,13 +1,13 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        strmap = defaultdict(list)
+        res = defaultdict(list)
 
         for s in strs:
-            cmap = [0] * 26
+            alpas = [0] * 26
             for c in s:
-                cmap[ord(c) - ord('a')] += 1
+                alpas[ord(c) - ord('a')] += 1
             
-            strmap[tuple(cmap)].append(s)
+            res[tuple(alpas)].append(s)
         
-        return strmap.values()
+        return res.values()
