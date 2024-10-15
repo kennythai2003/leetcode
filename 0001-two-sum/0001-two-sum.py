@@ -5,13 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        
-        num_map = {}
+        diffmap = {}
 
-        for i, n in enumerate(nums):
-            diff = target - n
-            if diff in num_map:
-                return [i, num_map[diff]]
-            num_map[n] = i
+        for i, v in enumerate(nums):
+            diff = target - v
+            if diff in diffmap:
+                return [i, diffmap[diff]]
+            diffmap[v] = i
         
         return []
+        
