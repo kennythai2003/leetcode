@@ -4,12 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        nummap = {}
+        numsmap = {}
 
         for n in nums:
-
-            if n in nummap:
+            if n in numsmap:
                 return True
-            nummap[n] = 1
+            numsmap[n] = 1
         
         return False
+        
