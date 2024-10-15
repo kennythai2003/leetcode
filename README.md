@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kennythai2003/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/kennythai2003/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/kennythai2003/leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/kennythai2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kennythai2003/leetcode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kennythai2003/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kennythai2003/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kennythai2003/leetcode/tree/master/0213-house-robber-ii) |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/kennythai2003/leetcode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
