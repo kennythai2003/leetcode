@@ -15,7 +15,7 @@ class Solution:
             else:
                 tail.next = list2
                 list2 = list2.next
-
+            
             tail = tail.next
         
         if list1:
@@ -25,4 +25,3 @@ class Solution:
             tail.next = list2
         
         return dummy.next
-            
