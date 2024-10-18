@@ -208,12 +208,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kennythai2003/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kennythai2003/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -225,10 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kennythai2003/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kennythai2003/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kennythai2003/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
 | ------- |
