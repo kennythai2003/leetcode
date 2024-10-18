@@ -4,14 +4,14 @@ class Solution:
         maxa = 0
 
         while l < r:
-            
-            area = (r - l) * min(height[l], height[r])
-            maxa = max(maxa, area)
 
-            if height[l] < height[r]:
+            area = (r - l) * min(height[l], height[r])
+
+            if height[l] <= height[r]:
                 l += 1
             else:
                 r -= 1
-
+            
+            maxa = max(area, maxa)
         
         return maxa
