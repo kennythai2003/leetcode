@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kennythai2003/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
