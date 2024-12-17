@@ -9,10 +9,10 @@ class Solution:
 
             m = (l + r) // 2
             mini = min(mini, nums[m])
-            if nums[l] <= nums[m]:
-                l = m + 1
-            else:
+            if nums[m] <= nums[r]:
                 r = m - 1
+            else:
+                l = m + 1
             
         
         return mini
