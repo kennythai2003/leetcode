@@ -7,7 +7,6 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        
         curr = root
 
         while curr:
@@ -17,3 +16,4 @@ class Solution:
                 curr = curr.right
             else:
                 return curr
+        
