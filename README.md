@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kennythai2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3468-find-the-encrypted-string](https://github.com/kennythai2003/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Binary Tree
 |  |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/kennythai2003/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/kennythai2003/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kennythai2003/leetcode/tree/master/0090-subsets-ii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kennythai2003/leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kennythai2003/leetcode/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
 | ------- |
