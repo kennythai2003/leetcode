@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Breadth-First Search
 |  |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Stack
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Geometry
 |  |
 | ------- |
