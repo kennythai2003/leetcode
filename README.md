@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Backtracking
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
 |  |
