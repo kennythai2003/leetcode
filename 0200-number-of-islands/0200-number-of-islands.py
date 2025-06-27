@@ -1,36 +1,32 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        ROWS = len(grid)
-        COLS = len(grid[0])
-        
-        DIRECTIONS = [(1, 0), (-1 , 0), (0, 1), (0, -1)]
-
+        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         visit = set()
-        islands = 0
-        if not grid: return 0 
+        res = 0
 
         def bfs(r, c):
             queue = deque()
-            queue.append((r, c))
+            queue.append((r,c))
             visit.add((r, c))
+
             while queue:
                 for i in range(len(queue)):
-                    r, c = queue.popleft()
+                    row, col = queue.popleft()
 
-                    for dr, dc in DIRECTIONS:
-                        row = dr + r
-                        col = dc + c
-
-                        if row == ROWS or col == COLS or row < 0 or col < 0 or (row, col) in visit or grid[row][col] == "0":
+                    for dr, dc in directions:
+                        drow, dcol = row + dr, col + dc
+                        if (min(drow,dcol) < 0 or drow == len(grid) or dcol == len(grid[0]) or (drow, dcol) in visit or grid[drow][dcol] == "0"):
                             continue
                         
-                        queue.append((row, col))
-                        visit.add((row, col))
+                        visit.add((drow, dcol))
+                        queue.append((drow, dcol))
 
-        for r in range(ROWS):
-            for c in range(COLS):
-                if grid[r][c] == "1" and (r, c) not in visit:
+
+        for r in range(len(grid)):
+            for c in range(len(grid[0])):
+                if (r, c) not in visit and grid[r][c] == "1":
                     bfs(r, c)
-                    islands += 1
+                    res += 1
+        
 
-        return islands
+        return res
