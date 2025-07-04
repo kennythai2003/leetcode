@@ -1,17 +1,11 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         diffmap = {}
 
         for i, v in enumerate(nums):
-            diff = target - v
-            if diff in diffmap:
-                return [i, diffmap[diff]]
+            if target - v in diffmap:
+                return [i, diffmap[target - v]]
             diffmap[v] = i
         
         return []
-        
+            
