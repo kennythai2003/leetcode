@@ -6,6 +6,6 @@ class Solution:
             for c in s:
                 cmap[ord(c) - ord('a')] += 1
 
-            res[tuple(map)].append(s)
+            res[tuple(cmap)].append(s)
 
-        return res.values()
+        return list(res.values())
