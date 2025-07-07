@@ -12,12 +12,11 @@ class Solution:
         while right and n:
             right = right.next
             n -= 1
-
+        
         while right:
             left = left.next
-            right = right.next
-
+            right = right.next 
+        
         left.next = left.next.next
 
         return dummy.next
-        
