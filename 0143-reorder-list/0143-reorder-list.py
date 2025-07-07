@@ -9,29 +9,28 @@ class Solution:
         Do not return anything, modify head in-place instead.
         """
         slow, fast = head, head
-
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        
-        prev = None
+
+        reversedl = None
         curr = slow
 
         while curr:
             temp = curr.next
-            curr.next = prev
-            prev = curr
+            curr.next = reversedl
+            reversedl = curr
             curr = temp
         
-        list1 = head
-        list2 = prev
+        firstl = head
+        secondl = reversedl 
+        
+        while secondl.next:
+           temp1 = firstl.next
+           firstl.next = secondl
+           firstl = temp1
 
-        while list2.next:
-            temp1 = list1.next
-            list1.next = list2
-            list1 = temp1
-
-            temp2 = list2.next
-            list2.next = list1
-            list2 = temp2
+           temp2 = secondl.next
+           secondl.next = firstl
+           secondl = temp2
         
