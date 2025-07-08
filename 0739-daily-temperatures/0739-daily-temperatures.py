@@ -4,7 +4,7 @@ class Solution:
         stack = []
 
         for i, t in enumerate(temperatures):
-            while stack and stack[-1][0] <= t:
+            while stack and stack[-1][0] < t:
                 ____, indx = stack.pop()
                 answer[indx] = i - indx
             
