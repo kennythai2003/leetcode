@@ -1,18 +1,18 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         l, r = 0, len(nums) - 1
-        res = nums[l]
-
+        minimum = nums[l]
         while l <= r:
+
             if nums[l] < nums[r]:
-                res = min(res, nums[l])
+                minimum = min(nums[l], minimum)
             
             m = (l + r) // 2
-            res = min(res, nums[m])
+            minimum = min(nums[m], minimum)
 
             if nums[l] <= nums[m]:
                 l = m + 1
             else:
-                r = m -1
+                r = m - 1
         
-        return res
+        return minimum
