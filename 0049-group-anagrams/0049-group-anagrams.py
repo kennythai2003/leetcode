@@ -1,11 +1,12 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        smap = defaultdict(list)
+        anagrams_map = defaultdict(list)
 
         for s in strs:
-            charcnt = [0] * 26
+            lett_map = [0] * 26
             for c in s:
-                charcnt[ord(c) - ord('a')] += 1
-            smap[tuple(charcnt)].append(s)
+                lett_map[ord(c) - ord('a')] += 1
+            
+            anagrams_map[tuple(lett_map)].append(s)
         
-        return list(smap.values())
+        return list(anagrams_map.values())
