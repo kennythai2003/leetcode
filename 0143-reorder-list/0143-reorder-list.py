@@ -12,25 +12,27 @@ class Solution:
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-
-        reversedl = None
+        
+        
         curr = slow
+        prev = None
 
         while curr:
             temp = curr.next
-            curr.next = reversedl
-            reversedl = curr
+            curr.next = prev
+            prev = curr
             curr = temp
         
-        firstl = head
-        secondl = reversedl 
-        
-        while secondl.next:
-           temp1 = firstl.next
-           firstl.next = secondl
-           firstl = temp1
+        l1 = head
+        l2 = prev
 
-           temp2 = secondl.next
-           secondl.next = firstl
-           secondl = temp2
+        while l2 and l2.next:
+
+            temp1 = l1.next
+            l1.next = l2
+            l1 = temp1
+
+            temp2 = l2.next
+            l2.next = l1
+            l2 = temp2
         
