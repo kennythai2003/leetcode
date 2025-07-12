@@ -8,11 +8,11 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
+        
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-        
         
         curr = slow
         prev = None
@@ -28,11 +28,11 @@ class Solution:
 
         while l2 and l2.next:
 
-            temp1 = l1.next
+            t1 = l1.next
             l1.next = l2
-            l1 = temp1
+            l1 = t1
 
-            temp2 = l2.next
+            t2 = l2.next
             l2.next = l1
-            l2 = temp2
+            l2 = t2
         
