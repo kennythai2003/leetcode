@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kennythai2003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kennythai2003/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
@@ -337,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/kennythai2003/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
