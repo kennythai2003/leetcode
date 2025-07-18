@@ -1,38 +1,32 @@
 class Solution:
     def shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1), (1, -1), (-1, -1), (1, 1), (-1, 1)]
-        short = 1
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1), (1, 1), (1, - 1), (-1, 1), (-1, -1)]
 
-        ROWS = len(grid)
-        COLS = len(grid[0])
-
-        q = deque()
-        visit = set()
-
-        if not grid: return -1
-
-        if grid[0][0] == 1:
+        if grid[0][0] == 1 or not grid:
             return -1 
-
-        q.append((0, 0))
+        
+        queue = deque()
+        visit = set()
+        queue.append((0, 0))
         visit.add((0, 0))
+        path = 1
 
-        while q:
-            
-            for i in range(len(q)):
-                r, c = q.popleft()
-                if r == ROWS - 1 and c == COLS - 1:
-                    return short
-                
+        while queue:
+            for i in range(len(queue)):
+
+                r, c = queue.popleft()
+                if (r == len(grid) - 1) and (c == len(grid[0]) - 1):
+                    return path
                 for dr, dc in directions:
-                    row, col = r + dr, c + dc
+                    row = dr + r
+                    col = dc + c
 
-                    if (row == ROWS or col == COLS or row < 0 or col < 0
-                        or grid[row][col] == 1 or (row, col) in visit): 
+                    if (min(row, col) < 0 or row == len(grid) or col == len(grid[0]) or grid[row][col] == 1 or (row, col) in visit):
                         continue
                     
-                    q.append((row, col))
+                    queue.append((row, col))
                     visit.add((row, col))
-
-            short += 1
-        return -1 
+                
+            path += 1
+        
+        return -1
