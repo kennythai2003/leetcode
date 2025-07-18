@@ -12,22 +12,20 @@ class Solution:
         if not root:
             return False
 
-        if self.sameTree(root, subRoot):
+        if self.isSameTree(root, subRoot):
             return True
         
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
-        
-    
-    def sameTree(self, p, q):
+        return (self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot))
+
+    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         if not p and not q:
             return True
         
-        if not p or not q:
+        if (not p and q) or (p and not q):
             return False
         
         if p.val != q.val:
             return False
         
-        return self.sameTree(p.left, q.left) and self.sameTree(p.right, q.right)
-
-    
+        if p.val == q.val:
+            return ((self.isSameTree(p.left, q.left)) and (self.isSameTree(p.right, q.right)))
