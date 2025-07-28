@@ -3,7 +3,7 @@ class Solution:
         
         res = 0
 
-        for i in nums:
-            res = res ^ i
-    
+        for n in nums:
+            res = res ^ n
+        
         return res
