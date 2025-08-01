@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/kennythai2003/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kennythai2003/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kennythai2003/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kennythai2003/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/kennythai2003/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kennythai2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kennythai2003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
