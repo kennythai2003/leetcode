@@ -8,7 +8,6 @@ class Solution:
                 res.append(curr.copy())
                 return
             
-
             if i >= len(candidates) or total > target:
                 return
             
@@ -19,7 +18,6 @@ class Solution:
             curr.pop()
             while i + 1 < len(candidates) and candidates[i] == candidates[i + 1]:
                 i += 1
-
             dfs(i + 1, curr, total)
         
         dfs(0, [], 0)
