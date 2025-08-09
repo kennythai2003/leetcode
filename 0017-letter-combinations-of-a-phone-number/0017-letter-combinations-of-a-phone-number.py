@@ -11,18 +11,15 @@ class Solution:
             "8": "tuv",
             "9": "wxyz",
         }
-
-
         def dfs(i, curr):
-
-            if len(curr) == len(digits):
+            if len(digits) == len(curr):
                 res.append(curr)
-                return 
+                return
 
             for c in digitToChar[digits[i]]:
                 dfs(i + 1, curr + c)
         
         if digits:
             dfs(0, "")
-
+        
         return res
