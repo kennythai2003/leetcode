@@ -5,24 +5,27 @@ class Solution:
         """
         
         l, r = 0, len(matrix) - 1
+
         while l < r:
+
             t, b = l, r
 
             for i in range(r - l):
-
+                
                 temp = matrix[t][l + i]
 
-                # topleft <- bot left
+                # tl <- bl
                 matrix[t][l + i] = matrix[b - i][l]
 
-                # botleft <- bot right
-                matrix[b - i][l] = matrix[b][r - i]
+                # bl <- br
+                matrix[b - i][l] = matrix[b][r -i]
 
-                # bot right <- top right
-                matrix[b][r - i] = matrix[t + i][r]
+                # br <- tr
+                matrix[b][r-i] = matrix[t + i][r]
 
-                # topright <- temp
+                # tr <- temp
                 matrix[t + i][r] = temp
+            
             l, r = l + 1, r - 1
-        
+            
         return matrix
