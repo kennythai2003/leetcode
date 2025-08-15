@@ -4,7 +4,7 @@ class Solution:
         res = []
 
         subsets = []
-        def dfs (i):
+        def dfs(i):
 
             if i >= len(nums):
                 res.append(subsets.copy())
