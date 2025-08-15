@@ -1,11 +1,10 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         res = []
-        subsets = []
         nums.sort()
-
+        subsets = []
         def dfs(i):
-            
+
             if i >= len(nums):
                 res.append(subsets.copy())
                 return
