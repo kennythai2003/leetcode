@@ -1,28 +1,31 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+
         res = 0
         visit = set()
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        def bfs(i, j):
+
+        def bfs(r, c):
             queue = deque()
-            queue.append((i, j))
-            visit.add((i, j))
+            queue.append((r, c))
+            visit.add((r, c))
             area = 1
             while queue:
                 for i in range(len(queue)):
-                    r, c = queue.popleft()
+                    row, col = queue.popleft()
+
                     for dr, dc in directions:
-                        row, col = dr + r, dc + c
-                        if (min(row, col) < 0 or row == len(grid) or col == len(grid[0]) 
-                            or grid[row][col] == 0 or (row, col) in visit):
+                        drow, dcol = dr + row, dc + col
+                        if (min(drow, dcol) < 0 or drow == len(grid) 
+                            or dcol == len(grid[0]) or (drow, dcol) in visit or
+                            grid[drow][dcol] == 0):
                             continue
                         
-                        queue.append((row, col))
-                        visit.add((row, col))
+                        queue.append((drow, dcol))
+                        visit.add((drow, dcol))
                         area += 1
-
             return area
-
+        
         for i in range(len(grid)):
             for j in range(len(grid[0])):
 
