@@ -12,10 +12,14 @@ class Solution:
             "8": "tuv",
             "9": "wxyz",
         }
+
+
         def dfs(i, curr):
-            if len(digits) == len(curr):
+
+            if len(curr) == len(digits):
                 res.append(curr)
                 return
+            
             for c in digitToChar[digits[i]]:
                 dfs(i + 1, curr + c)
         
@@ -23,3 +27,5 @@ class Solution:
             dfs(0, "")
         
         return res
+
+        
