@@ -1,10 +1,18 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0, 0
+        
+        if len(nums) == 0:
+            return 0
+        
+        if len(nums) == 1:
+            return nums[0]
 
-        for n in nums:
-            temp = max(n + rob1, rob2)
-            rob1 = rob2 
-            rob2 = temp
+        prev1 = max(nums[0], nums[1])
+        prev2 = nums[0]
 
-        return rob2
+        for i in range(2, len(nums)):
+            curr = max(prev2 + nums[i], prev1)
+            prev2 = prev1
+            prev1 = curr
+        
+        return prev1
