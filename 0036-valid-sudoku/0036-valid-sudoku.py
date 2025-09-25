@@ -6,6 +6,7 @@ class Solution:
 
         for r in range(len(board)):
             for c in range(len(board[0])):
+
                 if board[r][c] == ".":
                     continue
                 
