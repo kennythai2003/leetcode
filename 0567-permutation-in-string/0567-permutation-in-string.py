@@ -16,24 +16,24 @@ class Solution:
                 matches += 1
         
         l = 0
-        for i in range(len(s1), len(s2)):
-
+        for r in range(len(s1), len(s2)):
             if matches == 26:
                 return True
-            
-            index = ord(s2[i]) - ord('a')
+
+            index = ord(s2[r]) - ord('a')
             s2count[index] += 1
-            if s2count[index] == s1count[index]:
+            if s1count[index] == s2count[index]:
                 matches += 1
-            elif s2count[index] + 1 == s1count[index]:
+            elif s1count[index] + 1 == s2count[index]:
                 matches -= 1
             
             index = ord(s2[l]) - ord('a')
-            s2count[index] += 1
-            if s2count[index] == s1count[index]:
+            s2count[index] -= 1
+            if s1count[index] == s2count[index]:
                 matches += 1
-            elif s2count[index] - 1 == s1count[index]:
+            elif s1count[index] - 1 == s2count[index]:
                 matches -= 1
             
             l += 1
+
         return matches == 26
