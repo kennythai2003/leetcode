@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kennythai2003/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/kennythai2003/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kennythai2003/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kennythai2003/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kennythai2003/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kennythai2003/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/kennythai2003/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kennythai2003/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kennythai2003/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kennythai2003/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/kennythai2003/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/kennythai2003/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kennythai2003/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kennythai2003/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
