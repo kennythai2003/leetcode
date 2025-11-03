@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/kennythai2003/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/kennythai2003/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kennythai2003/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kennythai2003/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/kennythai2003/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kennythai2003/leetcode/tree/master/0011-container-with-most-water) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
