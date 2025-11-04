@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
+| [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/kennythai2003/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/kennythai2003/leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kennythai2003/leetcode/tree/master/0937-online-stock-span) |
+| [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/kennythai2003/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kennythai2003/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kennythai2003/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kennythai2003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kennythai2003/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kennythai2003/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kennythai2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
