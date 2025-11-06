@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0545-boundary-of-binary-tree](https://github.com/kennythai2003/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1127-last-stone-weight) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Data Stream
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kennythai2003/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kennythai2003/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -291,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/kennythai2003/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kennythai2003/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -421,4 +427,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
