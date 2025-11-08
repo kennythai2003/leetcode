@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kennythai2003/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kennythai2003/leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kennythai2003/leetcode/tree/master/0066-plus-one) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kennythai2003/leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kennythai2003/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kennythai2003/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
