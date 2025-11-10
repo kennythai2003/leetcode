@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kennythai2003/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kennythai2003/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
@@ -379,12 +381,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/kennythai2003/leetcode/tree/master/0937-online-stock-span) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/kennythai2003/leetcode/tree/master/0937-online-stock-span) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -416,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/kennythai2003/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
