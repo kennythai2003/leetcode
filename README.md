@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kennythai2003/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kennythai2003/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/kennythai2003/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/kennythai2003/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kennythai2003/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/kennythai2003/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kennythai2003/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0064-minimum-path-sum) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kennythai2003/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kennythai2003/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kennythai2003/leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/kennythai2003/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kennythai2003/leetcode/tree/master/0435-non-overlapping-intervals) |
