@@ -6,7 +6,8 @@ class Solution:
             length = 1
             if n - 1 not in numset:
                 while n + length in numset:
-                    res = max(res, length)
                     length += 1
+            
+            res = max(length, res)
 
         return res
