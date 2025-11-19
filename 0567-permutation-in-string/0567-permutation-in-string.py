@@ -1,6 +1,5 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        
         if len(s1) > len(s2):
             return False
         
@@ -19,7 +18,7 @@ class Solution:
         for r in range(len(s1), len(s2)):
             if matches == 26:
                 return True
-
+            
             index = ord(s2[r]) - ord('a')
             s2count[index] += 1
             if s1count[index] == s2count[index]:
@@ -35,5 +34,5 @@ class Solution:
                 matches -= 1
             
             l += 1
-
+        
         return matches == 26
