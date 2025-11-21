@@ -8,7 +8,6 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
@@ -22,16 +21,14 @@ class Solution:
             prev = curr
             curr = temp
         
-        l1 = head
-        l2 = prev
+        list1 = head
+        list2 = prev
 
-        while l2 and l2.next:
+        while list2 and list2.next:
+            temp1 = list1.next
+            list1.next = list2
+            list1 = temp1
 
-            temp1 = l1.next
-            l1.next = l2
-            l1 = temp1
-
-            temp2 = l2.next
-            l2.next = l1
-            l2 = temp2
-        
+            temp2 = list2.next
+            list2.next = list1
+            list2 = temp2
