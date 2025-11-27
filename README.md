@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/kennythai2003/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/kennythai2003/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kennythai2003/leetcode/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kennythai2003/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kennythai2003/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kennythai2003/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kennythai2003/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/kennythai2003/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kennythai2003/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/kennythai2003/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kennythai2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kennythai2003/leetcode/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kennythai2003/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/kennythai2003/leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
@@ -472,4 +475,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kennythai2003/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
