@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/kennythai2003/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kennythai2003/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kennythai2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kennythai2003/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kennythai2003/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/kennythai2003/leetcode/tree/master/0039-combination-sum) |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kennythai2003/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kennythai2003/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kennythai2003/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kennythai2003/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kennythai2003/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
