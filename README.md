@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3643-zero-array-transformation-ii](https://github.com/kennythai2003/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kennythai2003/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/kennythai2003/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kennythai2003/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kennythai2003/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Number Theory
 |  |
 | ------- |
