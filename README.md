@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kennythai2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kennythai2003/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kennythai2003/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kennythai2003/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/kennythai2003/leetcode/tree/master/0136-single-number) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kennythai2003/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kennythai2003/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kennythai2003/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kennythai2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/kennythai2003/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -471,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Geometry
