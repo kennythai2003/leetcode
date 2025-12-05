@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/kennythai2003/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kennythai2003/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/kennythai2003/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/kennythai2003/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kennythai2003/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kennythai2003/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/kennythai2003/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kennythai2003/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/kennythai2003/leetcode/tree/master/0253-meeting-rooms-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/kennythai2003/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3643-zero-array-transformation-ii](https://github.com/kennythai2003/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
