@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kennythai2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/kennythai2003/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/kennythai2003/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kennythai2003/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/kennythai2003/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/kennythai2003/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
