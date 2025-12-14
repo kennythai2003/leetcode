@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kennythai2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kennythai2003/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/kennythai2003/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kennythai2003/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/kennythai2003/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/kennythai2003/leetcode/tree/master/0125-valid-palindrome) |
@@ -426,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kennythai2003/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/kennythai2003/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kennythai2003/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kennythai2003/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kennythai2003/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
