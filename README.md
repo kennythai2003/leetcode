@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/kennythai2003/leetcode/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kennythai2003/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/kennythai2003/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kennythai2003/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/kennythai2003/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
 ## Quickselect
 |  |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kennythai2003/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/kennythai2003/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/kennythai2003/leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/kennythai2003/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kennythai2003/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kennythai2003/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/kennythai2003/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
