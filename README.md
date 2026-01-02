@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kennythai2003/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kennythai2003/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/kennythai2003/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/kennythai2003/leetcode/tree/master/1046-last-stone-weight) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kennythai2003/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kennythai2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kennythai2003/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
