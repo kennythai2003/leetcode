@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0545-boundary-of-binary-tree](https://github.com/kennythai2003/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/kennythai2003/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/kennythai2003/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/kennythai2003/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [3863-power-grid-maintenance](https://github.com/kennythai2003/leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0545-boundary-of-binary-tree](https://github.com/kennythai2003/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kennythai2003/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/kennythai2003/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Hash Function
 |  |
 | ------- |
