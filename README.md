@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/kennythai2003/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0647-palindromic-substrings](https://github.com/kennythai2003/leetcode/tree/master/0647-palindromic-substrings) |
+| [0752-open-the-lock](https://github.com/kennythai2003/leetcode/tree/master/0752-open-the-lock) |
 | [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/kennythai2003/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/kennythai2003/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kennythai2003/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/kennythai2003/leetcode/tree/master/0752-open-the-lock) |
 | [0792-binary-search](https://github.com/kennythai2003/leetcode/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/kennythai2003/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/kennythai2003/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/kennythai2003/leetcode/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/kennythai2003/leetcode/tree/master/0752-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/kennythai2003/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kennythai2003/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kennythai2003/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/kennythai2003/leetcode/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/kennythai2003/leetcode/tree/master/0752-open-the-lock) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kennythai2003/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1023-time-based-key-value-store](https://github.com/kennythai2003/leetcode/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kennythai2003/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
