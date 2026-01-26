@@ -14,7 +14,6 @@ class Solution:
                 return 0
             
             left, right = dfs(curr.left), dfs(curr.right)
-
             self.res = max(self.res, left + right)
 
             return 1 + max(left, right)
