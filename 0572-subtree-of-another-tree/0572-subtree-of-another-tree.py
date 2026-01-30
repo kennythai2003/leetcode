@@ -11,11 +11,12 @@ class Solution:
         
         if not root:
             return False
-
+        
         if self.isSameTree(root, subRoot):
             return True
         
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+
             
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         if not p and not q:
