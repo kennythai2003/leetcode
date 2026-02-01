@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kennythai2003/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/kennythai2003/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kennythai2003/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kennythai2003/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/kennythai2003/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kennythai2003/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/kennythai2003/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/kennythai2003/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/kennythai2003/leetcode/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/kennythai2003/leetcode/tree/master/0883-car-fleet) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kennythai2003/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -565,4 +567,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kennythai2003/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kennythai2003/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
