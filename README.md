@@ -571,4 +571,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kennythai2003/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kennythai2003/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
