@@ -8,5 +8,5 @@ class Solution:
                 while n + length in num_set:
                     length += 1
             longest = max(longest, length)
-        
+    
         return longest
