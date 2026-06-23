@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/kennythai2003/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kennythai2003/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/kennythai2003/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1929-concatenation-of-array](https://github.com/kennythai2003/leetcode/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kennythai2003/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -534,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/kennythai2003/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/kennythai2003/leetcode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/kennythai2003/leetcode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kennythai2003/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/kennythai2003/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kennythai2003/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
