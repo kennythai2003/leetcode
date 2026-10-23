@@ -1,19 +1,18 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        char_map = {}
+        maxf = 0
         l = 0
         res = 0
-        maxf = 0
-        s_map = {}
 
         for r in range(len(s)):
-            c = s[r]
-            s_map[c] = 1 + s_map.get(c, 0)
-
-            maxf = max(maxf, s_map[c])
+            char_map[s[r]] = 1 + char_map.get(s[r], 0)
+            maxf = max(char_map[s[r]], maxf)
 
             while (r - l + 1) - maxf > k:
-                s_map[s[l]] -= 1
+                char_map[s[l]] -= 1
                 l += 1
-            res = max(r - l + 1, res)
+
+            res = max(res, r - l + 1)
         
         return res
