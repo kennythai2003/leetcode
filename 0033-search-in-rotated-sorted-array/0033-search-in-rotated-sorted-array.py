@@ -1,17 +1,15 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        
+    def search(self, nums: list[int], target: int) -> int:
         l, r = 0, len(nums) - 1
+        res = 0
 
         while l <= r:
 
-            m = l + ((r - l) // 2)
-
+            m = (l + r) // 2
             if nums[m] == target:
                 return m
             
             if nums[l] <= nums[m]:
-
                 if nums[l] <= target <= nums[m]:
                     r = m - 1
                 else:
@@ -22,4 +20,6 @@ class Solution:
                 else:
                     r = m - 1
         
-        return -1 
+        return -1
+
+
