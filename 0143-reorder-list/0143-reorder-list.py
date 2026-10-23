@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reorderList(self, head: Optional[ListNode]) -> None:
+    def reorderList(self, head: ListNode | None) -> None:
         """
         Do not return anything, modify head in-place instead.
         """
@@ -13,22 +13,22 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
         
-        curr = slow
         prev = None
-        while curr:
-            temp = curr.next
-            curr.next = prev
-            prev = curr
-            curr = temp
+        while slow:
+            temp = slow.next
+            slow.next = prev 
+            prev = slow
+            slow = temp
         
         list1 = head
         list2 = prev
 
         while list2 and list2.next:
-            temp1 = list1.next
+            temp = list1.next
             list1.next = list2
-            list1 = temp1
-
+            list1 = temp
+            
             temp2 = list2.next
             list2.next = list1
             list2 = temp2
+
