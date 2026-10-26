@@ -11,12 +11,12 @@ class Solution:
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
-            fast = fast.next.next
+            fast = fast.next.next 
         
         prev = None
         while slow:
             temp = slow.next
-            slow.next = prev 
+            slow.next = prev
             prev = slow
             slow = temp
         
@@ -24,11 +24,11 @@ class Solution:
         list2 = prev
 
         while list2 and list2.next:
-            temp = list1.next
+            temp1 = list1.next
             list1.next = list2
-            list1 = temp
-            
+            list1 = temp1
+
             temp2 = list2.next
             list2.next = list1
             list2 = temp2
-
+        
