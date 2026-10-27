@@ -13,6 +13,6 @@ class Solution:
                 char_map[s[l]] -= 1
                 l += 1
 
-            res = max(res, r - l + 1)
+            res = max(r - l + 1, res)
         
         return res
