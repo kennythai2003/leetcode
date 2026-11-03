@@ -1,16 +1,17 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        
         if t == "":
             return ""
-
-        s_map, t_map = {}, {}
-
+        
+        s_map = {}
+        t_map = {}
         for c in t:
             t_map[c] = 1 + t_map.get(c, 0)
-
+        
         have, need = 0, len(t_map)
-        res, res_len = [-1, -1], float("infinity")
+        res = [-1, -1]
+        res_len = float("infinity")
+
         l = 0
 
         for r in range(len(s)):
@@ -31,7 +32,6 @@ class Solution:
                     have -= 1
                 
                 l += 1
-
+        
         l, r = res
-
-        return s[l: r + 1] if res_len != float("infinity") else ""
+        return s[l : r + 1] if res_len != float("infinity") else ""
