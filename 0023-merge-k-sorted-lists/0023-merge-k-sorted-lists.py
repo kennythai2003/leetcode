@@ -7,23 +7,21 @@ import heapq
 class Solution:
     def mergeKLists(self, lists: list[ListNode | None]) -> ListNode | None:
         heap = []
-
         for i, node in enumerate(lists):
             if node:
                 heapq.heappush(heap, (node.val, i, node))
         
-        dummy = ListNode()
+        dummy = ListNode(0)
         curr = dummy
+
         while heap:
 
             val, i, node = heapq.heappop(heap)
-            
             curr.next = node
             curr = curr.next
-
             node = node.next
-            if node: 
+
+            if node:
                 heapq.heappush(heap, (node.val, i, node))
         
         return dummy.next
-                
